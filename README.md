@@ -4,19 +4,35 @@
 
 ## 業務経験のある技術
 ### 言語
-PHP、Ruby、JavaScript、シェルスクリプト
+Ruby、PHP、JavaScript、TypeScript、Kotlin（検証程度）、Scala、シェルスクリプト
 ### フレームワーク
-Symfony、CodeIgniter、CakePHP、Ruby on Rails、Vue.js、Backbone.js
+Ruby on Rails、Symfony、CodeIgniter、CakePHP、Vue.js、Backbone.js
 ### データベース
 MySQL、Oracle、Redis、Memcached
 ### テスト
-Rspec、PHPUnit、TestCafe
+Rspec、PHPUnit、TestCafe、Jest
 ### SaaS/PaaS
-GitHub、CircleCI、Sentry
+GitHub、Sentry
+### CI
+CircleCi
 ### その他
 Terraform、Docker、Jenkins、Capistrano、munin、nginx、Apache
 
 ## 業務経歴
+### Webメディア向けSaasの新規開発（2020年前半）
+【企業名】
+株式会社キメラ
+
+【プロジェクト概要】
+Webメディア向けペイウォール提供Saasの新規開発プロジェクトにおけるバックエンド及びフロントエンド開発を担当。
+
+【担当業務】
+- TypeScript + Vue.js によるフロントエンド開発環境の構築及び実装
+- Stripeを利用した決済基盤の設計及び実装。言語はScalaを使用
+
+【発揮したバリュー】
+フロントエンドの新規開発は初めてだったが、前プロジェクトでのVue.jsでの経験を生かし対応。TypeScriptは短期間でキャッチアップ、モダンな開発環境構築を実現。
+
 ### DM（ダイレクトメール）購入Webサービスの新規開発（2019年）
 【企業名】
 ラクスル株式会社
@@ -43,6 +59,7 @@ DM（ダイレクトメール）をECサイト上で販売するサービスの�
 【担当業務】
 - PHPによる複雑なビジネスロジックをPdMと共に要件定義、テーブル設計を含めて実装
 - Ruby on RailsによるAPIの実装
+- Vue.jsによる新機能設計〜開発
 - Jenkinsによる各種ジョブ作成
 
 【発揮したバリュー】
@@ -77,9 +94,13 @@ OracleによるSQL（PL・SQLを含む）に複雑なロジックを記述する
 【発揮したバリュー】
 手動作成していたメーカー向けレポートの自動化を実現、Bizメンバーの大幅な工数削減に貢献。（PdM不在の環境だったので要件定義から担当）
 
-## 基本情報
-| key | value |
-| --- | ----- |
-| 氏名 | 石河 邦明（いしかわ くにあき） |
-| 居住地 | 東京都 練馬区 |
-| 趣味 | 筋トレ（フィットネスコンテスト上位入賞経験あり）、コーヒー豆焙煎 |
+## 個人開発にて経験のある技術
+### 言語
+Kotlin（Androidアプリケーション開発にて使用）
+### Firebase
+FirebaseAuth、Firestore
+### AWS
+Route53、CloudFront、IAM、Certificate Manager、S3
+### CI
+GithubActions
+
